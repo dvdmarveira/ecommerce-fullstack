@@ -31,4 +31,7 @@ Infelizmente não consegui atender a todos os requisitos do desafio no período 
 
 ### Installation
 
-1. Clone o repositório:
+1. Clone o repositório: Para clonar o repositório, execute o seguinte comando no terminal:
+
+```bash
+git clone https://github.com/dvdmarveira/ecommerce-fullstack.git
