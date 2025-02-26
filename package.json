@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^9.5.0"
+  },
+  "devDependencies": {
+    "@storybook/addon-essentials": "^8.6.0",
+    "@storybook/react": "^8.6.0",
+    "@storybook/react-vite": "^8.6.0",
+    "@types/node": "^22.13.5",
+    "@types/uuid": "^10.0.0"
+  }
+}
