@@ -1,8 +1,7 @@
 # E-commerce Full Stack Application
 
-Uma aplicação full-stack de um e-commerce construído com NestJS, MongoDB, React e AWS (LocalStack).
+Uma aplicação full-stack de um e-commerce em construção com NestJS, MongoDB, React e AWS (LocalStack).
 
-Infelizmente não consegui atender a todos os requisitos do desafio no período de tempo estipulado no arquivo, mas segue o que consegui desenvolver dentro das 4 horas.
 
 ## Features
 
